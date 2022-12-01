@@ -36,9 +36,9 @@ router.post(
 
     // destructure request body
     const {
-      email,
       Fname,
       Lname,
+      email,
       password
     } = req.body;
 
