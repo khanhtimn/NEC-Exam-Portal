@@ -18,7 +18,7 @@ import Test from './pages/Test';
 // ----------------------------------------------------------------------
 
 const Github = () => {
-  window.location.href = 'https://github.com/Manthan933/Manthan';
+  window.location.href = 'https://github.com/khanhtimn/NEC-Exam-Portal';
   return null;
 };
 

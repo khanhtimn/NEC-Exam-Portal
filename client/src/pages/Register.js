@@ -64,14 +64,14 @@ export default function Register() {
               Get started absolutely free.
             </Typography>
             <Typography sx={{ color: 'text.secondary' }}>
-              Free forever. No credit card needed.
+              Sign up below and start training now.
             </Typography>
           </Box>
 
           <RegisterForm />
 
           <Typography variant="body2" align="center" sx={{ color: 'text.secondary', mt: 3 }}>
-            By registering, I agree to Manthan&nbsp;
+            By registering, I agree to the&nbsp;
             <Link underline="always" sx={{ color: 'text.primary' }}>
               Terms of Service
             </Link>
