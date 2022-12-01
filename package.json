@@ -37,7 +37,8 @@
     "normalize": "^0.3.1",
     "path": "^0.12.7",
     "randomatic": "^3.1.1",
-    "react-file-base64": "^1.0.3"
+    "react-file-base64": "^1.0.3",
+    "update-json": "^1.0.1"
   },
   "devDependencies": {
     "concurrently": "^6.5.1",
